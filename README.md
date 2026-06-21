@@ -60,15 +60,6 @@ pretrained_pth/pvt/pvt_v2_b2.pth
 
 ## Data
 
-The processed FH-PS-AoP split is provided through the download link above. After extraction, the directory should be organized as:
-
-```text
-data/fhps_aop/train/images
-data/fhps_aop/train/masks
-data/fhps_aop/val/images
-data/fhps_aop/val/masks
-```
-
 Masks use three labels:
 
 ```text
