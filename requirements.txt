@@ -1,0 +1,9 @@
+torch
+torchvision
+timm
+numpy
+opencv-python
+scipy
+scikit-image
+pandas
+SimpleITK
